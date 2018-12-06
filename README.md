@@ -24,3 +24,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+![Settings Window](https://res.cloudinary.com/angelrodriguez/image/upload/v1544062736/Screen_Shot_2018-12-05_at_9.18.36_PM.png)
